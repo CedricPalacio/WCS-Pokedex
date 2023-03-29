@@ -1,4 +1,4 @@
-import PokemonCard from "./components/component";
+import PokemonCard from "./components/PokemonCard";
 
 function App() {
   return (
