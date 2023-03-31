@@ -1,4 +1,4 @@
-
+//composant PokemonCard qui prend en props(en donneés) pokemon (donc pokemonIndex de PokemonList) et qui affiche ses données
 
 function PokemonCard ({pokemon}) {
  
